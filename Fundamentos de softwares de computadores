@@ -50,3 +50,32 @@
         Você não pode fazer isso, a menos que tenha acesso ao código-fonte. 
         E, mesmo assim, você não pode distribuir o software modificado, a menos que tenha permissão do fornecedor.
         Isso significa que você não pode compartilhar o software com outras pessoas, mesmo que tenha feito melhorias ou correções.
+
+>> **O que é um programa?**
+    Um programa é um conjunto de instruções que a CPU pode executar.
+    Essas instruções são escritas em uma linguagem de programação, como JavaScript, Python, Java, C++, entre outras.
+    O programa é o que faz o computador funcionar e executar tarefas específicas.
+    Um programa pode ser tão simples quanto uma única linha de código ou tão complexo quanto um sistema operacional inteiro.
+    
+*Anotacaos:*
+    - Um programa é um conjunto de instruções que a CPU pode executar.
+    - Essas instruções são escritas em uma linguagem de programação.
+    - O programa é o que faz o computador funcionar e executar tarefas específicas.
+    - Um programa pode ser tão simples quanto uma única linha de código ou tão complexo quanto um sistema operacional inteiro.
+    - O código-fonte é o conjunto de instruções escritas em uma linguagem de programação.
+
+    Exemplo de analogia:
+        o relacionamento entre areia e escultura.
+        Cada instrução em código de máquina seria um grão de areia, que é sem sentido e parecido com todos os outros.
+         Porém, se você juntar grande quantidade de maneira certa, pode construir uma estrutura complexa, conforme sua imaginação e seu objetivo.
+
+No ciclo busca-execução, a CPU iniciará buscando a instrução 1, carregando-a para dentro de si (CPU), e a executará.
+Por exemplo, a CPU adicionará os dois números. 
+Após executar a instrução 1, a CPU simplesmente desce na lista e executa novamente o ciclo busca-execução para a instrução 2.
+ Em seguida, faz o mesmo para a instrução três, e assim por diante. As instruções são executadas uma após a outra, sequencialmente.
+    Isso é chamado de *execução sequencial.*
+    A execução sequencial é a forma mais comum de execução de programas, mas existem outras formas, como a execução paralela e a execução assíncrona.
+    A execução paralela é quando várias instruções são executadas ao mesmo tempo, enquanto a execução assíncrona é quando uma instrução é executada enquanto outra está aguardando por um evento.
+    A execução assíncrona é comum em programas que fazem uso de eventos, como interfaces gráficas e aplicações web.
+
+
