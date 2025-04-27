@@ -1,58 +1,48 @@
 
-# Caderno Digital - Faculdade
+# 📝 Caderno Digital - Faculdade
 
-Este repositório é um projeto pessoal de anotações para acompanhar minha trajetória acadêmica na faculdade de Ciência da Computação. O objetivo principal é registrar as minhas anotações, aprender enquanto escrevo/digito e poder revisar minha evolução ao longo do tempo. O sistema foi feito para ser um diário digital, onde posso ver minhas notas e reflexões sobre o aprendizado.
+Este repositório é meu **caderno digital** para as anotações da minha graduação em **Ciência da Computação**. Utilizo o GitHub como ambiente de estudo, pois aprendo melhor escrevendo e digitando — além de manter tudo acessível e versionado.
 
-## Funcionalidades
+---
 
-- **Criação e Edição de Anotações**: Permite a criação e edição das minhas anotações sobre as matérias da faculdade.
-- **Organização de Matérias**: As anotações são organizadas por matérias, facilitando o acesso a qualquer conteúdo específico.
-- **Pesquisa de Anotações**: Funcionalidade para buscar rapidamente por palavras-chave dentro das anotações.
-- **Acompanhamento da Evolução**: O principal objetivo é poder olhar para trás no futuro e ver minha evolução ao longo do tempo.
+## 🎯 Propósito
 
-## Como Executar o Projeto
+Acompanhar meu aprendizado ao longo da faculdade, revisar o conteúdo estudado e analisar minha evolução enquanto registro tudo de forma prática e acessível.
 
-1. **Clonar o Repositório**:
+---
 
-   ```bash
-   git clone https://github.com/cypreste/Caderno-Digital---Faculdade.git
-   cd Caderno-Digital---Faculdade
-   ```
+## 📌 Objetivos
 
-2. **Instalar Dependências**:
+- Organizar e revisar minhas anotações das matérias da faculdade.
+- Acompanhar minha evolução no aprendizado ao longo dos semestres.
+- Manter um registro pessoal de anotações que posso consultar e revisar no futuro.
 
-   Para o backend:
+---
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+## 🧾 Introdução
 
-   Para o frontend:
+Para mim, o processo de aprendizado é intensificado quando escrevo e digito o que estudo. Esse repositório serve como uma forma de acompanhar minha jornada acadêmica e revisar de maneira eficiente o conteúdo visto em sala de aula. Ao ter tudo digitalizado e versionado, consigo voltar facilmente ao que aprendi e analisar minha evolução ao longo dos anos.
 
-   ```bash
-   npm install
-   ```
+---
 
-3. **Configurar o Banco de Dados**:
+## 📘 Organização deste repositório
 
-   O banco de dados é criado automaticamente na primeira execução do projeto. Não é necessário configurar nada manualmente.
+O conteúdo será registrado de forma pessoal e prática, com foco em:
 
-4. **Executar o Projeto**:
+- Anotações teóricas sobre as disciplinas da faculdade.
+- Resumos e insights pessoais sobre o conteúdo estudado.
+- Reflexões sobre o aprendizado e a aplicação do conhecimento.
+- Materiais complementares para o estudo contínuo.
 
-   No backend (Flask):
+---
 
-   ```bash
-   python app.py
-   ```
+## 🧑‍💻 Sobre mim
 
-   No frontend (React):
+Me chamo **Raphael Cypreste**, sou estudante de Ciência da Computação e utilizo o GitHub como meu caderno digital de estudos. Estou buscando aprender de forma contínua e revisar minha evolução no caminho da tecnologia e da computação.  
+📎 Acesse meu portfólio: [www.cyprestedev.com.br](https://www.cyprestedev.com.br)
 
-   ```bash
-   npm start
-   ```
+---
 
-5. Abra o navegador e acesse `http://localhost:3000` para visualizar a aplicação.
+## 📅 Atualizações
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório será atualizado conforme o andamento dos meus estudos na faculdade. Fique à vontade para acompanhar!
