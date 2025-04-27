@@ -1,47 +1,47 @@
 >> Caderno digital
 27/04/2024 
 
->> # **Conceitos básicos de softwares**
-# Conhecendo o software
+>> **Conceitos básicos de softwares**
+**Conhecendo o software**
     Software é o conjunto de funções executadas na programação de um computador.
         Embora não seja uma entidade física, ganha materialização em sua construção virtual, independentemente da rede.
 
     Na linguagem JavaScript, a instrução (linha de código) para definir um pixel (ponto) da tela com nível de vermelho para o nível 255 seria:
-pixel.setRed(255).
+`pixel.setRed(255)`.
     Essa instrução é muito mais complexa do que uma instrução de código de máquina individual que CPUs são capazes de executar. 
         Então, nós a chamamos de uma instrução de alto nível.
     O código de máquina é o conjunto de instruções que a CPU pode executar diretamente.
         O código de máquina é escrito em binário, ou seja, em 0s e 1s.
     
-    ##Instruções de alto nível
+    **Instruções de alto nível**
         São escritas em uma linguagem de programação, como JavaScript, Python, Java, C++, entre outras.
         Essas instruções são mais fáceis de entender e escrever para os programadores.
         Elas são traduzidas para código de máquina por um compilador ou interpretador antes
         de serem executadas pela CPU.
     
-    ##Instruções de baixo nível
+    **Instruções de baixo nível**
         São escritas em uma linguagem de máquina, que é a linguagem nativa da CPU.
         Essas instruções são mais difíceis de entender e escrever para os programadores.
         Elas são executadas diretamente pela CPU sem a necessidade de tradução.
         O código de máquina é específico para cada tipo de CPU, ou seja, cada tipo de processador tem seu próprio conjunto de instruções.
 
 
---// Anotacao da materia \\--
+**Anotação da matéria**
     Como corrigir um erro de programação cometido pelo programador?
     Se você quiser adicionar um recurso para corrigir um bug no Firefox (por exemplo), a forma real de fazer isso é voltar ao código-fonte original
      e realizar os ajustes necessários, alterando as instruções.
     Em seguida, é necessário executar o compilador novamente para compilar (traduzir de linguagem C++ para linguagem de máquina) 
     uma nova versão do Firefox que incluirá os ajustes realizados no código-fonte.
 
->> # **Softwares de código aberto X softwares de código fechado**
-        Softwares de *código aberto* são aqueles cujo código-fonte é disponibilizado publicamente, permitindo que qualquer pessoa possa 
+>> **Softwares de código aberto X softwares de código fechado**
+        Softwares de **código aberto** são aqueles cujo código-fonte é disponibilizado publicamente, permitindo que qualquer pessoa possa 
         visualizar, modificar e distribuir o software.
         Exemplos: Linux, Apache, Firefox, LibreOffice.
             Se forem necessários ajustes, correções e incrementações que você queira fazer com o programa – 
-            ou se o fornecedor original não existe mais –, você tem total liberdade para agir.Você pode realizar as modificações, 
+            ou se o fornecedor original não existe mais –, você tem total liberdade para agir. Você pode realizar as modificações, 
             ou talvez prefira contratar alguém para produzir sua própria versão personalizada.
         
-        Softwares de *código fechado* são aqueles cujo código-fonte não é disponibilizado publicamente, ou seja, apenas a empresa ou 
+        Softwares de **código fechado** são aqueles cujo código-fonte não é disponibilizado publicamente, ou seja, apenas a empresa ou 
         desenvolvedor que criou o software tem acesso ao código-fonte.
         Exemplos: Windows, Microsoft Office, Photoshop.
             Se você precisa de algum recurso diferente ou adicional, ou se há um bug que precisa ser corrigido, você realmente depende do fornecedor,
@@ -50,4 +50,3 @@ pixel.setRed(255).
         Você não pode fazer isso, a menos que tenha acesso ao código-fonte. 
         E, mesmo assim, você não pode distribuir o software modificado, a menos que tenha permissão do fornecedor.
         Isso significa que você não pode compartilhar o software com outras pessoas, mesmo que tenha feito melhorias ou correções.
-
