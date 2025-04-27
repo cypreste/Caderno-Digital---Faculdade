@@ -1,13 +1,37 @@
 # 27/04/2024 
+*"Hardware é o que você pode chutar, já software é o que você só pode xingar."* 
 
 >> **O que é hardware?**
     Hardware refere-se aos componentes físicos dos dispositivos tecnológicos, como celulares e computadores.
      Cada componente desempenha uma função específica, desde a condução de energia até o armazenamento de dados.
       A compreensão desses elementos é imprescindível para acompanhar a rápida evolução tecnológica.
 
-*"Hardware é o que você pode chutar, já software é o que você só pode xingar."* // Genio
-
 >>**O que difere hardware de software?**
     Hardware é a estrutura física, enquanto o software é composto por códigos e instruções (apps em geral).
 O SO e o principal sotftware, visto que ele viabiliza o uso de HARDWARE e SOFTWARES de uma forma perfeita. // Basico
+        Exemplo de Hardware: A memoria RAM, armaneza temporariamente os dados enquanto o pc esta em uso.
+        Exemplo de Software: World, um programa de texto que permite criar, editar ou formatar documentos.
+
+>>**Lei de Moore** - formulada por Gordon Moore, cofundador da Intel.
+    Essa lei diz que o numero de transistores contidos em um chip dobra em um periodo entre 18 e 24 meses. // Nao e o atual momento.
+
+>>**Componentes fundamentais do computador** - Cpu,placa mae, memoria RAM e HD/SSD/PENDRIVE.
+    Ja conheco sobre os assuntos abordados na aula (Aprendi no ensino medio), entao nao farei tantas anotacoes. Apenas assistindo a aula.
+        A memória RAM tem como característica o armazenamento temporário dos dados. Enquanto o computador estiver ligado, os dados estarão armazenados na memória RAM, mas, assim que o computador for desligado, os dados serão apagados da memória RAM – isso é o que a caracteriza como sendo uma memória volátil.
+        
+        A memória ROM (Read-Only Memory) é um tipo de memória que permite apenas a leitura de dados, ou seja, as informações são gravadas pelo fabricante e não podem ser alteradas ou apagadas. É uma memória não volátil, o que significa que mantém os dados mesmo quando a energia é cortada. 
+
+    *CPU = Cerebro*
+        Onde sao executadas todas as intrucoes de softwares.
+    *Placa mae = Espinha dorsal*
+        Responsável por interligar CPU, RAM, discos etc.
+
+>> **Microcontroladores:** - Execucao de uma atividade unica.
+        Sao computadores extremamentes compactos, incorporados em um unico chip, contendo CPU, RAM e armanezamento.
+        microcontroladores são computadores realmente pequenos, que não têm muito poder, mas são muito baratos, e quem tornou isso possível foi a Lei de Moore.
+                (e possivel invadir/proteger?) - Responder no futuro.
+
+>> **Unidades de armanezamento:** - megabytes, gigabytes e terabytes. (Nao volateis)
+        Exemplos: HD, SDD, CD, M2, PENDRIVES, CLOUD, ETC...
+    Ja tenho conhecimento sobre, apenas assistindo a aula.
 
