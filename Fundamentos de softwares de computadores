@@ -78,4 +78,26 @@ Após executar a instrução 1, a CPU simplesmente desce na lista e executa nova
     A execução paralela é quando várias instruções são executadas ao mesmo tempo, enquanto a execução assíncrona é quando uma instrução é executada enquanto outra está aguardando por um evento.
     A execução assíncrona é comum em programas que fazem uso de eventos, como interfaces gráficas e aplicações web.
 
+>> **Sistema operacional**
+    O sistema operacional é o software que gerencia o hardware e o software do computador.
+    Ele é responsável por gerenciar os recursos do computador, como memória, processador, disco rígido, entre outros.
+    O sistema operacional também fornece uma interface para o usuário interagir com o computador.
+    O sistema operacional é o software mais importante do computador, pois sem ele o computador não funcionaria.
 
+
+**Processo de boot em um computador**
+    O processo de boot é o processo de inicialização do computador.
+    Quando você liga o computador, o processador começa a executar o código de inicialização, que é armazenado na memória ROM (Read-Only Memory).
+    Esse código de inicialização carrega o sistema operacional na memória RAM (Random Access Memory) e inicia o processo de inicialização do sistema operacional.
+    O processo de boot é dividido em duas etapas: a etapa de POST (Power-On Self-Test) e a etapa de carregamento do sistema operacional.
+        A etapa de POST verifica se todos os componentes do computador estão funcionando corretamente.
+        Se tudo estiver funcionando corretamente, o sistema operacional é carregado na memória RAM e o computador está pronto para uso.
+
+    *Firmware* e responsavel por detectar quando um computador é ligado e iniciar o processo de boot.
+    O firmware é um software que é armazenado em um chip de memória ROM (Read-Only Memory) na placa-mãe do computador.
+    Procura um dispositivo de armazenamento (HD, SSD, etc.) que contenha o sistema operacional.
+    O firmware carrega o sistema operacional na memória RAM (Random Access Memory) e inicia o processo de inicialização do sistema operacional.
+
+>> **Tipos de linguagem de programação**
+    JavaScript, Python, Java, C++, entre outras.
+    (Acho que ja estudei essa materia, mas não me lembro de ter visto isso em aula.)
