@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /* Crianca (0-12 anos)
     Adolescente (13-17 anos)
     Adulto (18-64 anos)
