@@ -12,6 +12,7 @@ switch (variavel) {
         printf("Mensagem de teste\n");
         printf("Mensagem de teste 2\n");
         printf("Mensagem de teste 3\n");
+        printf("\n***Fim do bloco de codigo***\n");
         break;
 
     case 2:
@@ -19,6 +20,7 @@ switch (variavel) {
         printf("Mensagem de teste\n");
         printf("Mensagem de teste 2\n");
         printf("Mensagem de teste 3\n");
+        printf("\n***Fim do bloco de codigo***\n");
         break;
 
     default:
