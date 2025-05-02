@@ -5,3 +5,6 @@ As estruturas de decisão aninhadas ocorrem quando uma instrução if está dent
  >> **Uso do switch**
  A estrutura switch em C é usada para simplificar o processo de seleção de uma entre várias opções possíveis.
   O switch é especialmente útil quando você tem muitas condições para verificar e deseja evitar uma longa sequência de instruções if-else-if.
+     A estrutura switch funciona como um menu.
+     Você fornece uma variável de controle e, com base no valor dessa variável, o programa executa o bloco de código correspondente.
+
