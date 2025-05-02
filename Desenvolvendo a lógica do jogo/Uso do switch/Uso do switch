@@ -8,3 +8,6 @@ As estruturas de decisão aninhadas ocorrem quando uma instrução if está dent
      A estrutura switch funciona como um menu.
      Você fornece uma variável de controle e, com base no valor dessa variável, o programa executa o bloco de código correspondente.
 
+Ao utilizar "char" ao inves de int(inteiros) deve usar aspas simples " '' ", operador %c
+
+Aula parada no min 6:28h
