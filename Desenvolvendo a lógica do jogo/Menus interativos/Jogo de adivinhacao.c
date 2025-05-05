@@ -16,6 +16,7 @@ int main () {
 
     switch (opcao)
     {
+<<<<<<< HEAD
     case 1:
     srand(time(0));
     numeroSecreto = rand() % 10; // Gera um número aleatório entre 0 e 9
@@ -29,6 +30,12 @@ int main () {
     } else {
     printf("Voce errou! O numero secreto era %d\n", numeroSecreto);
     }
+=======
+        case 1:
+        srand(time(0));
+        numeroSecreto = rand() % 10; // Gera um número aleatório entre 0 e 9
+        printf("numero secreto: %d\n", numeroSecreto);
+>>>>>>> 1cee930dda839f83f8f1e12b1ad1f11389e87ae1
 
         break;
         case 2:
