@@ -3,14 +3,15 @@
 int main () {
     int opcao;
 
-    printf{"Menu principal\n"};
-    printf{"1. Iniciar jogo\n"};
-    printf{"2. Ver regras\n"};
-    printf{"3. Sair\n"};
-    printf{"Escolha uma opcao: "};
+    printf("Menu principal\n");
+    printf("1. Iniciar jogo\n");
+    printf("2. Ver regras\n");
+    printf("3. Sair\n");
+    printf("Escolha uma opcao: ");
     scanf("%d", &opcao);
 
-    switch (opcao) {
+    switch (opcao) 
+    {
         case 1:
             printf("Execucao do jogo\n");
             break;
