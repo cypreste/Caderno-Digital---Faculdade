@@ -32,13 +32,14 @@ int main () {
     break;
 
     case 2:
-    printf("A explicacao das regras");
-    printf("Digite a opcao relacionada as regras do jogo!\n");
+    printf("A explicacao das regras\n");
+    printf("Escolha uma opcao de regra (1-5): ");
+    scanf("%d", &regras); // Adicionei uma variável para capturar a opção de regras
     switch (regras)  // Adicionei uma variável para capturar a opção de regras
     {
     case 1:
         printf("Regras 1\n");
-        printf("1. O jogador deve adivinhar um número entre 0 e 9.\n");
+        printf("1. O jogador deve adivinhar um numero entre 0 e 9.\n");
         break;
     
         case 2:
