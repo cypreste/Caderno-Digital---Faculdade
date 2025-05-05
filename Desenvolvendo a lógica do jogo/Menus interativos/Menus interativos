@@ -1,0 +1,9 @@
+#05/05/2025
+
+> **Menus interativos**
+    Imagine o desenvolvimento de um pequeno jogo em C. Nesse jogo, o usuário terá um menu inicial com opções para iniciar o jogo, ver as regras ou sair. Usaremos a estrutura switch para gerenciar essas opções de maneira clara e eficiente.
+Primeiramente, vamos criar um menu que apresenta ao usuário as seguintes opções:
+    *Iniciar jogo*
+    *Ver regras*
+    *Sair*
+    
