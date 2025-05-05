@@ -18,13 +18,15 @@ int main () {
     {
     case 1:
     srand(time(0));
-    numeroSecreto = rand() % 10; // Gera um número aleatório entre 0 e 9
-    printf("Digite um palpite entre 0 e 9: ");
+    numeroSecreto = rand() % 100; // Gera um número aleatório entre 0 e 99
+    printf("Bem-vindo ao jogo de adivinhacao!\n");
+    printf("Voce tem apenas uma tentativa para adivinhar o numero secreto.\n");
+    printf("Digite um palpite entre 0 e 99: ");
     scanf("%d", &palpite);
 
     if(numeroSecreto == palpite) // Compare o palpite com o número secreto
     {
-    printf("Parabens! Voce acertou!\n");
+    printf("**Parabens! Voce acertou!**\n");
     printf("O numero secreto era: %d\n", numeroSecreto);
     } else {
     printf("Voce errou! O numero secreto era %d\n", numeroSecreto);
@@ -60,7 +62,10 @@ int main () {
         case 5:
         printf("Regras 5\n");
         printf("5. O jogo termina quando o jogador acerta ou erra.\n");
-        break;   
+        break; 
+    // Pretendo adicionar uma funcao que faz retornar para o menu principal
+    // caso o jogador queira sair do jogo ou ver novas regras,mas ainda não implementei.    
+    
     default:
         break;
     }
