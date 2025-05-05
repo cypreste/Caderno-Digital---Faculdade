@@ -32,13 +32,13 @@ int main () {
     switch (escolhaJogador)
     {
     case 1:
-        printf("Voce escolheu Pedra\n");
+        printf("Voce escolheu *PEDRA*\n");
         break;
     case 2:
-        printf("Voce escolheu Papel\n");
+        printf("Voce escolheu *PAPEL*\n");
         break;
     case 3:
-        printf("Voce escolheu Tesoura\n");
+        printf("Voce escolheu *TESOURA*\n");
         break;
     default:
         printf("Escolha invalida! Tente novamente.\n");
