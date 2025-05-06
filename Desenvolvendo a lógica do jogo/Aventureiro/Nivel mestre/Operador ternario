@@ -1,0 +1,12 @@
+#06/06/2025
+
+>>**Entendendo o operador ternário em C**
+    O operador ternario e uma forma compacta de escrever uma instrucao
+    if-else.e chamado de ternario porque envolve tres pontos.
+        Uma condicao
+        Um valor se a condicao for verdadeira
+        Um valor se a condicao for falsa
+
+*sintaxe do operador ternário*
+    condicao ? valor_se_verdadeiro : valor_se_falso;
+

@@ -69,7 +69,7 @@ int main () {
     }
 
     printf("Obrigado por jogar!\n");
-    printf("Aperte qualquer tecla para sair...\n");
+    printf("Aperte qualquer tecla para sair\n");
     
     return 0;
 
